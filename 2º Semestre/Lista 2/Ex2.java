@@ -1,6 +1,4 @@
-// Fazer um programa para que o usuário entre com um número inteiro. 
-// Após isso, o programa deve calcular o termo correspondente da sequência de Fibonacci.
-// Primeiros números da sequência: 0, 1, 1, 2, 3, 5 ...
+// Fazer um programa para que o usuário entre com um número inteiro. Após isso, o programa deve calcular o termo correspondente da sequência de Fibonacci. Primeiros números da sequência: 0, 1, 1, 2, 3, 5 ...
 // Para se calcular o próximo termo da sequência de Fibonacci, é necessário somar os dois termos anteriores.
 
 import java.util.Scanner;

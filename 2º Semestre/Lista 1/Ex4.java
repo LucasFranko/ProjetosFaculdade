@@ -1,5 +1,4 @@
-// Fazer um programa que exiba a janela de diálogo três vezes, em cada uma delas o usuário irá entrar com um número inteiro.
-// Após isso o programa deverá imprimir na tela o somatório dos valores.
+// Fazer um programa que exiba a janela de diálogo três vezes, em cada uma delas o usuário irá entrar com um número inteiro. Após isso o programa deverá imprimir na tela o somatório dos valores.
 
 import java.util.Scanner;
 
@@ -12,7 +11,7 @@ public class Ex4 {
 			int n2 = myObj.nextInt();
 			System.out.println("Insira mais um número:");
 			int n3 = myObj.nextInt();
-			System.out.println(n1+n2+n3);
+			System.out.println("O somatório dos números é: " + (n1 + n2 + n3));
 		}
 }
 }
